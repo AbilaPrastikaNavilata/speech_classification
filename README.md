@@ -17,6 +17,9 @@ Proyek ini merupakan klasifikasi suara hewan yang ditirukan oleh manusia menggun
 
 ## Cara Menjalankan:
 1. Siapkan dataset audio.
-2. Jalankan notebook di Jupyter / VS Code.
+2. Jalankan di VS Code.
 3. Latih dan evaluasi model.
+
+Mohon maaf data gagal untuk di run, tertulis bahwa harus mengupload mengistal ulang library, sudah mencoba mengimport library namun tetap gagal
+https://github.com/AbilaPrastikaNavilata/speech_classification/blob/main/gagal.png
 
