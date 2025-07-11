@@ -1,4 +1,3 @@
-# speech_classification
 
 # Speech Classification - Animal Sounds
 
